@@ -1,4 +1,4 @@
-# Digital Clock
+# Stop Watch
 
 * Hi, I am **A. F. M Shahriar Sharif Rahi**. I created this project named **Stop Watch** for my practice.
 This is fully Dynamic Stop Watch.
