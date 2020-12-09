@@ -13,8 +13,8 @@ function start() {
         sec++;
         let {min, s} = getTime(sec);
 
-        minute.textContent =  min;
-        second.textContent = s;
+        minute.textContent = (min < 10) ? ('0' + min) : min;
+        second.textContent = (s < 10) ? ('0' + s) : s;
     }, 1000)
 }
 
